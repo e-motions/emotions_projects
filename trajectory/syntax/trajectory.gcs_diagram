@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:gcs="http://www.lcc.uma.es/GCS/1.0" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmi:id="_M7yzYIhkEeWZg58ApgMbvw" type="GCS" name="trajectory.gcs_diagram" measurementUnit="Pixel">
+  <children xmi:type="notation:Node" xmi:id="_NBXP4IhkEeWZg58ApgMbvw" type="2001">
+    <children xmi:type="notation:Node" xmi:id="_NBX28IhkEeWZg58ApgMbvw" type="5002"/>
+    <children xmi:type="notation:Node" xmi:id="_NBYeAIhkEeWZg58ApgMbvw" type="7001">
+      <children xmi:type="notation:Node" xmi:id="_NBnukIhkEeWZg58ApgMbvw" type="3001">
+        <children xmi:type="notation:Node" xmi:id="_NBoVoIhkEeWZg58ApgMbvw" type="5001"/>
+        <styles xmi:type="notation:ShapeStyle" xmi:id="_NBnukYhkEeWZg58ApgMbvw" fontName=".Helvetica Neue DeskInterface"/>
+        <element xmi:type="gcs:ClassGD" href="trajectory.gcs#//@packagesGD.0/@classesGD.0"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_NBnukohkEeWZg58ApgMbvw" x="94" y="16" width="37" height="37"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_NBoVoYhkEeWZg58ApgMbvw" type="3001">
+        <children xmi:type="notation:Node" xmi:id="_NBo8sIhkEeWZg58ApgMbvw" type="5001"/>
+        <styles xmi:type="notation:ShapeStyle" xmi:id="_NBoVoohkEeWZg58ApgMbvw" fontName=".Helvetica Neue DeskInterface"/>
+        <element xmi:type="gcs:ClassGD" href="trajectory.gcs#//@packagesGD.0/@classesGD.1"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_NBoVo4hkEeWZg58ApgMbvw" x="157" y="16"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_NBo8sYhkEeWZg58ApgMbvw" type="3001">
+        <children xmi:type="notation:Node" xmi:id="_NBo8tIhkEeWZg58ApgMbvw" type="5001"/>
+        <styles xmi:type="notation:ShapeStyle" xmi:id="_NBo8sohkEeWZg58ApgMbvw" fontName=".Helvetica Neue DeskInterface"/>
+        <element xmi:type="gcs:ClassGD" href="trajectory.gcs#//@packagesGD.0/@classesGD.2"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_NBo8s4hkEeWZg58ApgMbvw" x="40" y="16"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_NBYeAYhkEeWZg58ApgMbvw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_NBYeAohkEeWZg58ApgMbvw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_NBYeA4hkEeWZg58ApgMbvw"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_NBZsIIhkEeWZg58ApgMbvw" type="7002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_NBZsIYhkEeWZg58ApgMbvw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_NBZsIohkEeWZg58ApgMbvw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_NBZsI4hkEeWZg58ApgMbvw"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_NBXP4YhkEeWZg58ApgMbvw" fontName=".Helvetica Neue DeskInterface"/>
+    <element xmi:type="gcs:PackageGD" href="trajectory.gcs#//@packagesGD.0"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_NBXP4ohkEeWZg58ApgMbvw" x="27" y="27"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_M7yzYYhkEeWZg58ApgMbvw"/>
+  <element xmi:type="gcs:MetamodelGD" href="trajectory.gcs#/"/>
+</notation:Diagram>
