@@ -45,7 +45,7 @@
       <styles xmi:type="notation:FontStyle" xmi:id="_LC3GYohlEeWZg58ApgMbvw" fontName=".Helvetica Neue DeskInterface"/>
       <styles xmi:type="notation:FillStyle" xmi:id="_LC3GY4hlEeWZg58ApgMbvw"/>
       <element xmi:type="behavior:Pattern" href="trajectory.behavior#//@rules.0/@patterns.0"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LC3GZIhlEeWZg58ApgMbvw" x="180" y="72" width="64" height="160"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LC3GZIhlEeWZg58ApgMbvw" x="250" y="70" width="64" height="160"/>
     </children>
     <children xmi:type="notation:Node" xmi:id="_LC3GZ4hlEeWZg58ApgMbvw" type="2005">
       <children xmi:type="notation:DecorationNode" xmi:id="_LC3GbIhlEeWZg58ApgMbvw" type="5050"/>
@@ -105,7 +105,7 @@
       <styles xmi:type="notation:FontStyle" xmi:id="_LC3GaYhlEeWZg58ApgMbvw" fontName=".Helvetica Neue DeskInterface"/>
       <styles xmi:type="notation:FillStyle" xmi:id="_LC3GaohlEeWZg58ApgMbvw"/>
       <element xmi:type="behavior:Pattern" href="trajectory.behavior#//@rules.0/@patterns.1"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LC3Ga4hlEeWZg58ApgMbvw" x="252" y="72" width="262" height="160"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LC3Ga4hlEeWZg58ApgMbvw" x="460" y="70" width="262" height="160"/>
     </children>
     <children xmi:type="notation:Node" xmi:id="_NUHXUIhlEeWZg58ApgMbvw" type="2005">
       <children xmi:type="notation:DecorationNode" xmi:id="_NUHXVYhlEeWZg58ApgMbvw" type="5050"/>
@@ -126,7 +126,7 @@
       <styles xmi:type="notation:FontStyle" xmi:id="_NUHXUohlEeWZg58ApgMbvw" fontName=".Helvetica Neue DeskInterface"/>
       <styles xmi:type="notation:FillStyle" xmi:id="_NUHXU4hlEeWZg58ApgMbvw"/>
       <element xmi:type="behavior:Pattern" href="trajectory.behavior#//@rules.0/@patterns.2"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_NUHXVIhlEeWZg58ApgMbvw" x="108" y="71" width="64" height="159"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_NUHXVIhlEeWZg58ApgMbvw" x="108" y="71" width="113" height="159"/>
     </children>
     <children xmi:type="notation:Shape" xmi:id="_jxML4IhmEeWZg58ApgMbvw" type="Note" fontName=".Helvetica Neue DeskInterface" description="Angle: .5 radians (~30º) Speed: 60 m/s" fillColor="13369343" transparency="0" lineColor="6737151" lineWidth="1">
       <children xmi:type="notation:BasicDecorationNode" xmi:id="_jxMy8IhmEeWZg58ApgMbvw" type="DiagramName">
