@@ -1,0 +1,29 @@
+
+set show advisories off .
+set print attributes on .
+
+load mOdCL.maude
+load MGDefinitions.maude
+load EcoreMM.maude
+load MGRealTimeMaude24.maude
+load e-Motions.maude
+
+load DEVSMM.ecore.maude
+load DEVSBehavior.behavior.maude
+load EmptyModel.maude
+
+
+mod RUN is
+  pr EMPTY-MODEL . ---- Also importing the metamodel
+  pr @DEVSMM@BEHAVIOR@ .
+
+  var T TE : Time .
+  var MODEL : @Model .
+
+  crl [tick] :
+   { MODEL } in time T
+  =>
+   { delta(MODEL, TE) } in time (T plus TE)
+  if TE := mte(MODEL) /\ TE =/= zero /\ (T plus TE) le 30 .
+
+endm

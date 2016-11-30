@@ -1,6 +1,6 @@
 ---- ----------------------------------------------- ----
 ---- Programmatically generated code using e-Motions ----
----- @date Tue Nov 29 18:29:05 CET 2016             ----
+---- @date Wed Nov 30 14:34:46 CET 2016             ----
 ---- ----------------------------------------------- ----
 
 mod @DEVSMM@BEHAVIOR@ is
@@ -445,8 +445,8 @@ mod @DEVSMM@BEHAVIOR@ is
     __(
       <_:_|_>(c:OCL-Type, CONVEYOR@DEVSMM@c@CLASS:Conveyor@devsmm, 
         _#_(
-          _:_(outParts@Conveyor@devsmm, OUTPARTS@c@ATT:OCL-Type), 
-          _:_(out@Conveyor@devsmm, OUT@c@ATT:OCL-Type), c@SFS:Set{@StructuralFeatureInstance})), 
+          _:_(out@Conveyor@devsmm, OUT@c@ATT:OCL-Type), 
+          _:_(outParts@Conveyor@devsmm, OUTPARTS@c@ATT:OCL-Type), c@SFS:Set{@StructuralFeatureInstance})), 
       <_:_|_>(p:OCL-Type, PART@DEVSMM@p@CLASS:Part@devsmm, 
         _#_(
           _:_(xPos@PositionedEl@devsmm, XPOS@p@ATT:OCL-Type), 
@@ -465,8 +465,8 @@ mod @DEVSMM@BEHAVIOR@ is
       __(
         <_:_|_>(c:OCL-Type, CONVEYOR@DEVSMM@c@CLASS:Conveyor@devsmm, 
           _#_(
-            _:_(outParts@Conveyor@devsmm, OUTPARTS@c@ATT:OCL-Type), 
-            _:_(out@Conveyor@devsmm, OUT@c@ATT:OCL-Type), c@SFS:Set{@StructuralFeatureInstance})), 
+            _:_(out@Conveyor@devsmm, OUT@c@ATT:OCL-Type), 
+            _:_(outParts@Conveyor@devsmm, OUTPARTS@c@ATT:OCL-Type), c@SFS:Set{@StructuralFeatureInstance})), 
         <_:_|_>(p:OCL-Type, PART@DEVSMM@p@CLASS:Part@devsmm, 
           _#_(
             _:_(xPos@PositionedEl@devsmm, XPOS@p@ATT:OCL-Type), 
@@ -1484,8 +1484,8 @@ mod @DEVSMM@BEHAVIOR@ is
       __(
         <_:_|_>(c:OCL-Type, CONVEYOR@DEVSMM@c@CLASS:Conveyor@devsmm, 
           _#_(
-            _:_(outParts@Conveyor@devsmm, OUTPARTS@c@ATT:OCL-Type), 
-            _:_(out@Conveyor@devsmm, OUT@c@ATT:OCL-Type), c@SFS:Set{@StructuralFeatureInstance})), 
+            _:_(out@Conveyor@devsmm, OUT@c@ATT:OCL-Type), 
+            _:_(outParts@Conveyor@devsmm, OUTPARTS@c@ATT:OCL-Type), c@SFS:Set{@StructuralFeatureInstance})), 
         <_:_|_>(p:OCL-Type, PART@DEVSMM@p@CLASS:Part@devsmm, 
           _#_(
             _:_(xPos@PositionedEl@devsmm, XPOS@p@ATT:OCL-Type), 
@@ -1526,8 +1526,8 @@ mod @DEVSMM@BEHAVIOR@ is
     __(
       <_:_|_>(c:OCL-Type, CONVEYOR@DEVSMM@c@CLASS:Conveyor@devsmm, 
         _#_(
-          _:_(outParts@Conveyor@devsmm, OUTPARTS@c@ATT:OCL-Type), 
-          _:_(out@Conveyor@devsmm, OUT@c@ATT:OCL-Type), c@SFS:Set{@StructuralFeatureInstance})), 
+          _:_(out@Conveyor@devsmm, OUT@c@ATT:OCL-Type), 
+          _:_(outParts@Conveyor@devsmm, OUTPARTS@c@ATT:OCL-Type), c@SFS:Set{@StructuralFeatureInstance})), 
       <_:_|_>(p:OCL-Type, PART@DEVSMM@p@CLASS:Part@devsmm, 
         _#_(
           _:_(xPos@PositionedEl@devsmm, XPOS@p@ATT:OCL-Type), 

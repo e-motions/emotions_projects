@@ -1,0 +1,6 @@
+
+mod EMPTY-MODEL is
+  pr @DEVSMM@ .
+  op emptyModel : -> @Model .
+  eq emptyModel = _`{_`}(@devsmm@, none) .
+endm
