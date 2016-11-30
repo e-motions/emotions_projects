@@ -1,8 +1,8 @@
 #Launch configuration for e-Motions
-#Wed Nov 30 14:42:39 CET 2016
+#Wed Nov 30 14:52:29 CET 2016
 printRules=true
-isInfinite=false
 metamodel=\\PLS\\Metamodel\\DEVSMM.ecore
+isInfinite=false
 printAdvisories=false
 ouputFolder=/PLS/maude_output
 behaviorModel=\\PLS\\Behavior\\DEVSBehavior.behavior

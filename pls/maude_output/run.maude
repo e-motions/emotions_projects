@@ -1,6 +1,6 @@
 
 set show advisories off .
-set print attributes on .
+set print attribute on .
 
 load model-checker.maude
 load mOdCL.maude
@@ -27,3 +27,5 @@ mod RUN is
    { delta(MODEL, TE) } in time (T plus TE)
   if TE := mte(MODEL) /\ TE =/= zero /\ (T plus TE) le 30 .
 endm
+
+rewrite init(emptyModel) .
